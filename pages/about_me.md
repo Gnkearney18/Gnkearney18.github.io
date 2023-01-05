@@ -4,4 +4,4 @@ title: About Me
 permalink: /about/
 ---
 
-I am super Cool...yep thats it!
+I am super Cool...yep thats it! Edit
